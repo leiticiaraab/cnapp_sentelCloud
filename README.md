@@ -133,22 +133,6 @@ Les résultats sont organisés par sévérité, service, catégorie et ressource
 
 [Présentation PowerPoint](docs/presentation/SentinelCloud-presentation.pptx)
 
-## Roadmap
-
-La suite du projet prévoit notamment :
-
-- enrichissement du moteur de règles CSPM
-- meilleure gestion multi-comptes
-- rôles IAM cross-account
-- historique avancé des scans
-- recommandations de remédiation
-- support PostgreSQL
-- export de rapports
-- déploiement conteneurisé
-- intégration CI/CD
-
-Voir [docs/roadmap.md](docs/roadmap.md).
-
 ## Statut
 
 MVP technique / Proof of Concept.
