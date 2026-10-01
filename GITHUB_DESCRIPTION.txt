@@ -1,1 +1,0 @@
-AWS CNAPP / CSPM MVP architecture, security model and product documentation. Agentless, read-only cloud posture analysis for AWS.
